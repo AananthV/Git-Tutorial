@@ -1,10 +1,5 @@
 hi guys this is the master branch. 
-<<<<<<< HEAD
 this is the default first branch created by git when you run git init
-=======
-this is the default first branch created by git when you run 
-git init
->>>>>>> initial commit
 
 chech the log of this branch you should see a commit with message "initial commit"
 
